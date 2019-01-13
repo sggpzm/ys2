@@ -27,3 +27,24 @@ https://github.com/Leo-G/Flask-Scaffold Database driven
 https://github.com/dheerajiiitv/Project_Restaurants
 https://github.com/pyx/flask-diced view-produce
 https://github.com/guokr/swagger-py-codegen a Python web framework generator supports Flask, Tornado, Falcon, Sanic
+https://github.com/xiiiblue/flask-rest-sample
+
+使用Python编写的REST API，可以对多个资源提供增删改查服务，用于快速构建REST应用
+
+https://github.com/Leo-G/Flask-Scaffold
+Prototype Database driven Web apps in Angular 6, Bootstrap 4 and REST API's with Flask (Python 3 framework) https://techarena51.com/blog/tag/flas…
+
+https://github.com/xiiiblue/webpack-jquery-scaffold
+WebPack + JQuery简易脚手架，适用于追求较小体积SPA的场合
+
+https://github.com/xiiiblue/f7-vue-webpack-scaffold
+基于Webpack+Vue+Framework7的移动端单页应用脚手架
+
+https://github.com/xiiiblue/flask-adminlte-scaffold
+flask-adminlte-scaffold是一个Python环境下的WEB后台管理系统脚手架，目标是用极少量的代码，快速构建小型WEB应用。
+
+http://www.pybloggers.com/2015/04/scaffold-a-flask-project/
+https://github.com/Depado/flask-skeleton
+A simple script to create a flask application using command line.
+https://github.com/ARLahan/Flask-Skeleton 
+Another Flask Skeleton
