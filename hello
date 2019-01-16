@@ -49,3 +49,9 @@ A simple script to create a flask application using command line.
 https://github.com/ARLahan/Flask-Skeleton 
 Another Flask Skeleton
 https://github.com/jly36963/jly-flask-dions-menu/tree/master/project
+https://github.com/PadamSethia/shorty py27 use https://github.com/anningwang/dancemgr venv ,mysql ok
+https://github.com/chnhef/PAI02 txt2mysql
+https://github.com/nik4mub/Csv2MySql ***import py2exe, setup(console=['csv2MySql.py']), import csv,  csvfile.to_sql('csv', conn, if_exists='append', index=False)
+https://github.com/kcshan/python_study
+python网络编程、多任务、web服务器、高级语法、mysql
+https://github.com/JimDreamHeart/PyToolsIP
