@@ -56,3 +56,25 @@ https://github.com/kcshan/python_study
 python网络编程、多任务、web服务器、高级语法、mysql
 https://github.com/JimDreamHeart/PyToolsIP
 https://github.com/xiaoCarl/myclass/blob/master/doc/python/11_python%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E5%8C%85configparse.md
+https://github.com/rundeck/rundeck
+Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts http://rundeck.org
+https://github.com/bugy/script-server
+Web GUI for your scripts and remote execution facility.
+https://stackoverflow.com/questions/4412476/how-do-i-create-a-web-interface-to-a-simple-python-script
+https://github.com/chriskiehl/Gooey
+Turn (almost) any Python command line program into a full GUI application with one line
+https://github.com/pybee/toga
+A Python native, OS native GUI toolkit. https://toga.readthedocs.io/en/latest/
+https://github.com/wooey/Wooey
+A Django app that creates automatic web UIs for Python scripts. http://wooey.readthedocs.org
+https://github.com/krisfields/django-baker**
+Adds a management command that generates views, forms, urls, admin, and templates based off the contents of models.py
+https://codepen.io/ CodePen is a social development environment for front-end designers and developers
+https://github.com/Czero000/MyNote/blob/master/Python/%E5%85%B6%E4%BB%96/Python%E8%B5%84%E6%BA%90%E9%9B%86%E5%90%88.md  Python资源集合.md
+https://github.com/Wei1234c/Introduction_to_Pandas
+Introduction to Pandas - using IPython notebook. / Pandas 入門介紹 教學講義。
+https://github.com/jasonding1354/pyDataScienceToolkits_Base
+使用Python进行数据分析实验工具NumPy、Pandas、Matplotlib、Scikit-learn的入门介绍，使用IPython Notebook格式 http://nbviewer.ipython.org/github/ja…
+https://github.com/duzhi5368/AwesomeAllInOne/wiki/Python-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88
+https://github.com/wireservice/csvkit
+A suite of utilities for converting to and working with CSV, the king of tabular file formats. http://csvkit.rtfd.org/
