@@ -39,10 +39,8 @@ WebPack + JQuery简易脚手架，适用于追求较小体积SPA的场合
 
 https://github.com/xiiiblue/f7-vue-webpack-scaffold
 基于Webpack+Vue+Framework7的移动端单页应用脚手架
-
 https://github.com/xiiiblue/flask-adminlte-scaffold
 flask-adminlte-scaffold是一个Python环境下的WEB后台管理系统脚手架，目标是用极少量的代码，快速构建小型WEB应用。
-
 http://www.pybloggers.com/2015/04/scaffold-a-flask-project/
 https://github.com/Depado/flask-skeleton
 A simple script to create a flask application using command line.
@@ -78,33 +76,18 @@ https://github.com/jasonding1354/pyDataScienceToolkits_Base
 https://github.com/duzhi5368/AwesomeAllInOne/wiki/Python-%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8%E4%B8%AD%E6%96%87%E7%89%88
 https://github.com/wireservice/csvkit
 A suite of utilities for converting to and working with CSV, the king of tabular file formats. http://csvkit.rtfd.org/
-
-
 https://github.com/dogobox/datavivamaster/
-
 https://github.com/txdywy/airbb/blob/master/views/root.py
-
 https://github.com/psigns/Shenyang_site/blob/master/app/views.py
-
 https://github.com/willzxd/PeopleOnTheWay/blob/master/microblog/app/views.py
-
 https://github.com/bjelline/hip-or-clean
-
 https://github.com/fmfi-svt/eprihlaska/blob/master/eprihlaska/views.py
-
 https://github.com/Code4HR/hrt-bus-api/blob/master/web/app.py
-
 http://api.hrtb.us/api
 https://github.com/Markitplace/markitplace-webapp/blob/master/app/views.py
-
 https://github.com/etothemanders/GoingPostal
-
 https://github.com/alexandersimoes/oec****
-
 https://github.com/willbeaufoy/powerplantsmap***
-
 https://github.com/Zverik/mmwatch
-
 https://github.com/liyun-li/di-chal/blob/master/www/app/views.py
-
 https://github.com/rygz146/sanbaiqian
