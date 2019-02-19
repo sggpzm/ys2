@@ -133,3 +133,5 @@ https://github.com/richard-muir/data-visualisation-with-plotly-and-python
 A repo for all the lessons I made for my Udemy course 'Data Visualisation with Plotly and Python'.
 https://github.com/GTLibraryDataVisualization/Plotly-with-Python-Introduction-Workshop
 Using Plotly API for python in order to create a 3D scatter plot
+https://github.com/polyspectra/properties_comparison A polySpectra production
+A dash tool built as a way to compare material properties with a focus on those used in additive manufacturing. Configured for Heroku.
